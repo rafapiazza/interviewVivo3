@@ -72,3 +72,7 @@ algo tratado com custom exceptions ou mensagens padronizadas de erro.
 Vale lembrar que a adição de persistência torna muitos dos processos dessa questão mais fáceis e claros, bem como podendo expor os endpoints
 que consumem as entidades, separando todos os requisitos das questões em enpoints, ao invés de sempre ter que criar uma nova corrida e calcular 
 tudo novamente, então existem alguns códigos em forma de comentários pela aplicaçãço, para quando for criado o banco serem adicionados nas @table.
+
+Os demais projetos se encontram nos:
+https://github.com/rafapiazza/interviewVivo1/tree/master
+https://github.com/rafapiazza/interviewVivo/tree/master
